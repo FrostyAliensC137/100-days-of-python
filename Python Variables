@@ -1,0 +1,9 @@
+name = "Jack"
+print(name)
+
+name = "Chris"
+print(name)
+
+print( len( input("What is your name?")))
+length = len(name)
+print(length)
