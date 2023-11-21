@@ -1,0 +1,21 @@
+
+
+"hello"[0]
+
+print("123" + "345")
+
+#Integer
+
+
+print(123 + 456)
+
+#float
+
+123_456_789
+
+3.14159
+
+#Boolean
+
+True 
+False 
